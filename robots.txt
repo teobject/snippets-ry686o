@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teobject.github.io/snippets-ry686o/sitemap.xml
